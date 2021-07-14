@@ -1,0 +1,16 @@
+{
+  "name": "francanobot",
+  "version": "1.0.0",
+  "description": "twitterbot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+},
+  "author": "DBaronesi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twit": "^2.2.11"
+  }
+}
