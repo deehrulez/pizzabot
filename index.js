@@ -46,6 +46,6 @@ function BotInit() {
 }
 
 /* Configure um intervalo de  30 minutos (em microsegundos) */
-setInterval(BotRetweeted, 30*60*1000);
+setInterval(BotInit, 30*60*1000);
 /* Inicialize o bot Bot */
 BotInit();
